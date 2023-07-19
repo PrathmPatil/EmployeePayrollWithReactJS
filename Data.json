@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "Name": "prathmesh",
+      "Profile": "https://www.maxpixel.net/static/photo/640/Young-Smile-Portrait-Ai-Generated-Man-Teeth-7833751.jpg",
+      "Gender": "male",
+      "Department": "[\"Finance\",\"Engineer\"]",
+      "Salary": "50001-60000",
+      "Date": "2023-07-08",
+      "Note": "done",
+      "id": 1
+    },
+    {
+      "Name": "sumit",
+      "Gender": "male",
+      "Department": "[\"Finance\",\"Engineer\"]",
+      "Salary": "40001-50000",
+      "Date": "2023-07-14",
+      "Note": "done",
+      "id": 3
+    },
+    {
+      "Name": "amita tiwari",
+      "Profile": "https://img.etimg.com/thumb/msid-96622207,width-650,height-488,imgsize-17564,,resizemode-75/ai-women.jpg",
+      "Gender": "female",
+      "Department": "[\"Finance\",\"Sales\"]",
+      "Salary": "70001-80000",
+      "Date": "2023-07-01",
+      "Note": "done",
+      "id": 4
+    }
+  ]
+}
